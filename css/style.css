@@ -1,0 +1,40 @@
+body {
+  background-attachment: fixed;
+  background-image: url("../assets/background.jpg");
+  background-position: right;
+  background-size: cover;
+}
+
+a {
+  color: #03A9F4;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4FC3F7;
+}
+
+h1 {
+  font-weight: 400;
+  margin-bottom: 12px;
+  margin-top: 0;
+}
+
+p {
+  font-weight: 300;
+}
+
+.main {
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  display: inline-block;
+  font-family: Roboto, Arial, sans-serif;
+  margin: 12px;
+  padding: 12px;
+  text-align: center;
+}
+
+.contact-link {
+  margin-right: 4px;
+}
