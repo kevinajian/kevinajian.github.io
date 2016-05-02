@@ -1,6 +1,9 @@
+html {
+  height: 100%;
+}
+
 body {
   background-attachment: fixed;
-  background-height: 100%;
   background-image: url("../assets/background.jpg");
   background-position: right;
   background-repeat: no-repeat;
